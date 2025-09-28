@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Username",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "lvZVLm0meUCKIfTjEEi5Fw",
+  "Reference": "0qkmNzKgMkG2JSDXidLgWA/lvZVLm0meUCKIfTjEEi5Fw",
+  "ParentRef": "0qkmNzKgMkG2JSDXidLgWA/BX40sN5rxEqC_PcISIHH9w",
+  "Created": "2025-09-18T08:52:53.2909488Z",
+  "Updated": "2025-09-18T09:09:07.1432404Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
